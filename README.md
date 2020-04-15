@@ -1,5 +1,6 @@
 
-The **kopy** package is the Go's common backup files operation, you can copy an entire directory or big files recursively with low CPU memory usage.  This **kopy** package fully implemented in [gokopy](https://github.com/itrepablik/gokopy) backup files software.
+![ITRDSN](https://user-images.githubusercontent.com/58651329/79336006-8e9fb380-7f55-11ea-84bf-553a86126906.png)
+The **itrdsn** package is a small wrapper to get the **hard disk serial number**, currently supported **Windows** and **Linux** operating systems.
 
 # Installation
 ```
