@@ -21,7 +21,7 @@ import (
 func main() {
 	hddSerialNo, err := itrdsn.GetDiskSerialNo()
 	if err != nil {
-		itrlog.Fatalw("error getting block storage serial number: %v", err)
+		itrlog.Fatalw("error getting hard disk serial number: %v", err)
 	}
 	fmt.Println("hddSerialNo: ", hddSerialNo)
 }
